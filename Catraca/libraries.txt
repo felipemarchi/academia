@@ -1,0 +1,2 @@
+Windows library to connect Arduino and Java:
+http://jlog.org/rxtx-win.html
